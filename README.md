@@ -1,4 +1,3 @@
-![I am a ReactJS Developer | Interested in MERN stack development](https://raw.githubusercontent.com/rashedrk/rashedrk/c6611dd0c1d600c3bf40b08de116483fc4f654d5/Banner.png)
 
 ### Hi there 👋, my name is Md Rashedul islam
 #### I am a Full Stack Web Developer
