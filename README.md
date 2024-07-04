@@ -14,7 +14,7 @@
 ### 📫 Reach me out:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rashedrk) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rashedrk001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rashedrk001) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rashedrk001) 
 
--- 📫 Email - **rashedrk001@gmail.com**
+ ##📫 Email - **rashedrk001@gmail.com**
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
