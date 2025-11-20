@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/1vT5LQ5/1720101642909.jpg" style="max-width:100%" />
+<img src="/1720101642909.jpg"  />
 
 
 ### Hi there 👋, my name is Md Rashedul islam
